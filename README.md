@@ -10,7 +10,7 @@ Cockpit interacts directly with the operating system from a real Linux session i
 ## TODO
 
 I want to add my own pages of some features which works for router with this GUI, and the OS 
-of router could be such as Ubuntu, based of embedded terminal.
+of router could be such as Ubuntu, based on embedded terminal.
 
   * 1. route system information
   * 2. WAN configuration, ethernet port, cellular, WiFi
