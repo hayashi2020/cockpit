@@ -6,6 +6,13 @@
 Cockpit is an interactive server admin interface. It is easy to use and very lightweight.
 Cockpit interacts directly with the operating system from a real Linux session in a browser.
 
+
+## TODO
+
+I want to join some features which works for router with this GUI, and the OS of router could 
+be such as Ubuntu etc. based of embedded terminal.
+
+
 ### Using Cockpit
 
 You can [install Cockpit](https://cockpit-project.org/running.html) on many Linux operating
