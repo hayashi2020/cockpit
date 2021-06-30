@@ -12,17 +12,17 @@ Cockpit interacts directly with the operating system from a real Linux session i
 I want to add my own pages of some features which works for router with this GUI, and the OS 
 of router could be such as Ubuntu, based of embedded terminal.
 
-  * [1. route system information]
-  *2. WAN configuration, ethernet port, cellular, WiFi
-  *3. LAN configuration, ethernet port, WiFi
-  *4. Firewall configuration
-  *5. Port forwarding configuration
-  *6. keep alive configuraion
-  *7. router account management
-  *8. configuration management
-  *9. firmware upgrade / OTA
-  *10. maintenance configuraion
-  *11. others...
+  * 1. route system information
+  * 2. WAN configuration, ethernet port, cellular, WiFi
+  * 3. LAN configuration, ethernet port, WiFi
+  * 4. Firewall configuration
+  * 5. Port forwarding configuration
+  * 6. keep alive configuraion
+  * 7. router account management
+  * 8. configuration management
+  * 9. firmware upgrade / OTA
+  * 10. maintenance configuraion
+  * 11. others...
 
 
 ### Using Cockpit
